@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25iMnozdmJoMnExYTFwMmx2YWNsc28wM3lldGJ2bzZ6amxrbmd3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" height="200" alt="gif">
+  <img src="https://i.giphy.com/pUVOeIagS1rrqsYQJe.webp" height="200" alt="Work coding gif">
 </div>
 
 <div align="center">
